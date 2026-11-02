@@ -165,6 +165,13 @@ Our content aims to explain Christian teachings in simple language while encoura
 
 ---
 
+## Repository Guidance
+
+- Agent instructions: [AGENTS.md](AGENTS.md)
+- Domain guidance: [docs/content-guidance.md](docs/content-guidance.md)
+- Global engineering policy: [hb-AI-policy](https://github.com/HephzibahBehulahHQ/hb-AI-policy)
+- Visual standards: [hb-design-system](https://github.com/HephzibahBehulahHQ/hb-design-system)
+
 ## Development Status
 
 **Current phase:** Brand website planning and architecture.
